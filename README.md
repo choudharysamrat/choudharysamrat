@@ -4,7 +4,7 @@
 <p> <img align="right" src="https://github.com/choudharysamrat/choudharysamrat/blob/main/animation_500.gif" width="350" alt="samrat-about" /></p>
 
 
-- 💻 I'm currently working for ICFAI University Tripura where I make web applications using django.
+- 💻 I'm currently working for ICFAI University Tripura where I make web applications using Django.
 - 👨‍💻 I'm currently learning AWS Cloud Foundations, Git, GitHub and other programming languages.
 - 👀 Exploring different technologies.
 - 📩 How to reach me schoudharysamrat@gmail.com
