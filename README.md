@@ -5,7 +5,7 @@
 
 
 - 💻 I'm currently working in ICFAI University Tripura as a System Developer.
-- 👨‍💻 I'm currently learning AWS Cloud Foundations and other programming languages.
+- 👨‍💻 I'm currently learning AWS Cloud Foundations, Git, GitHub and other programming languages.
 - 👀 Exploring different technologies.
 - 📩 How to reach me schoudharysamrat@gmail.com
 
