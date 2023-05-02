@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Samrat Choudhary</h1>
 <br>
 
-<p> <img align="right" src="https://github.com/choudharysamrat/choudharysamrat/blob/main/animation_500.gif" alt="samrat-about" /></p>
+<p> <img align="right" src="https://github.com/choudharysamrat/choudharysamrat/blob/main/animation_500.gif" width="350" alt="samrat-about" /></p>
 
 
 - 💻 I'm currently working in ICFAI University Tripura as a System Developer.
