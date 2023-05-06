@@ -4,7 +4,7 @@
 <p> <img align="right" src="https://github.com/choudharysamrat/choudharysamrat/blob/main/animation_500.gif" width="350" alt="samrat-about" /></p>
 
 
-- 💻 I'm currently working for ICFAI University Tripura as a <b>System Developer</b> where I make web applications using <b>Django</b> and maintain their existing applications.
+- 💻 I'm currently working for ICFAI University Tripura as a <b>System Developer</b> where I make web applications using <b>Django</b> and maintaining their existing web applications.
 - 👨‍💻 I'm currently learning <b>AWS</b> Cloud Foundations, Git, GitHub and other programming languages.
 - 👀 Exploring different technologies.
 - 📩 How to reach me schoudharysamrat@gmail.com
